@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{Silberschatz08}
+Abraham Silberschatz, Peter~Baer Galvin, and Greg Gagne.
+\newblock {\em Operating System Concepts}.
+\newblock Wiley Publishing, New York, New York, 8th edition, 2008.
+
+\bibitem{Sundell08}
+Håkan Sundell and Philippas Tsigas.
+\newblock Lock-free deques and doubly linked lists.
+\newblock {\em Journal of Parallel and Distributed Computing}, 68(7):1008 --
+  1020, 2008.
+
+\bibitem{Gao07}
+H.~Gao and W.H. Hesselink.
+\newblock A general lock-free algorithm using compare-and-swap.
+\newblock {\em Information and Computation}, 205(2):225 -- 241, 2007.
+
+\bibitem{Herlihy91}
+Maurice Herlihy.
+\newblock Wait-free synchronization.
+\newblock {\em ACM Transactions on Programming Languages and Systems},
+  13(1):124--149, 1991.
+
+\bibitem{Lindsay08}
+Lindsay Groves.
+\newblock Trace-based derivation of a lock-free queue algorithm.
+\newblock {\em Electronic Notes in Theoretical Computer Science}, 201(0):69 --
+  98, 2008.
+\newblock Proceedings of the BCS-FACS Refinement Workshop.
+
+\bibitem{Michael98}
+M.~M. Michael and M.~L. Scott.
+\newblock Nonblocking algorithms and preemption-safe locking on multiprogrammed
+  shared memory multiprocessors.
+\newblock {\em Journal of Parallel and Distributed Computing}, 51(0):1 -- 26,
+  1998.
+
+\bibitem{Sutter08}
+Herb Sutter.
+\newblock Writing lock-free code: A corrected queue.
+\newblock Technical report, Dr. Dobbs, 2008.
+\newblock Available online as
+  \url{http://www.ddj.com/hpc-high-performance-computing/210604448}.
+
+\end{thebibliography}
